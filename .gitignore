@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
+
+# User-specific files
+/.idea/
+/.vscode/
+/.DS_Store
